@@ -1,0 +1,4 @@
+#3 Qual dos 2 algoritmos anteriores é preferível? Porquê?
+
+Para mim, usaria sempre o factorial iterativo, pois é mais fácil de compreensão e também de lógica na sua construção. 
+Embora o factorial recursivo, tenha muito menos código, torna-se menos persuasivo de comprrensão.
